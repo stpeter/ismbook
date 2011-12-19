@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='communism' name='communism'>
+  <source>From Latin communis: shared by all.</source>
+  <def topic='politics'>The political theory that the individual's actions should benefit the community or the state rather than the individual himself. It is the most radical kind of political &collectivism;, and depends on an equally radical collectivism or &altruism; in ethics. In practice, communism has always been a form of &authoritarianism; or &totalitarianism;. When referring to actual political systems, communism is sometimes called Marxism-Leninism because of communism's link with the revolutionary doctrines of &marxism; and with countries inspired by the examples of Lenin's revolution in Russia (and Mao's revolution in China).</def>
+</term>

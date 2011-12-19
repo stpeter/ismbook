@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='ethnocentrism' name='ethnocentrism'>
+  <source>From Greek ethnos: a nation or race of people, and from Latin centrum: middle point.</source>
+  <def topic='ethics'>The doctrine that nations or races of people are the primary social reality and that ethical matters are to be gauged by how they affect the interests of a nation or race; opposed to metaphysical and ethical &individualism;.</def>
+</term>

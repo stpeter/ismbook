@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='skepticism' name='skepticism'>
+  <source>From Greek skepsis: inquiry, hesitation, doubt.</source>
+  <def topic='epistemology'>Any theory or approach asserting that all claims to knowledge should be doubted, sometimes verging on &solipsism; or &nihilism;.</def>
+</term>

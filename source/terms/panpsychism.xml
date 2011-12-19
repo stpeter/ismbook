@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='panpsychism' name='panpsychism'>
+  <source>From Greek pan: all and Greek psuche: soul.</source>
+  <def topic='metaphysics'>The idea (similar to &animism;, &pantheism;, and &organicism;) that a world soul is present in everything that exists. The monadology of Leibniz is one form of panpsychism, since it holds that all physical things consist of little bundles of consciousness he called monads.</def>
+</term>

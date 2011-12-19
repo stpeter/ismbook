@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='cognitivism' name='cognitivism'>
+  <source>From Latin cognito: knowledge.</source>
+  <def topic='metaphysics'>The view that knowledge is a major (or even the primary) determinant of human behavior; developed in reaction to &behaviorism; as a result of the "cognitive revolution" in psychology.</def>
+  <def topic='ethics'>Another word for &intellectualism;.</def>
+</term>

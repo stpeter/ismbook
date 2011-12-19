@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='externalism' name='externalism'>
+  <source>From Latin externus: outward.</source>
+  <def topic='metaphysics'>The view (opposed to &internalism;) that there are external or objective reasons for human actions, apart from desires or intentions; a form of &objectivism;.</def>
+</term>

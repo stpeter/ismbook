@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='epicureanism' name='Epicureanism'>
+  <source>From the name of the Greek philosopher Epicurus (341-271 BCE).</source>
+  <def topic='ethics'>A school and theory of ethics that advocated enlightened &hedonism;. Epicurus held that true pleasure consists in the absence of all bodily pains and mental disturbances, a condition he called ataraxia. While Epicureanism was much more individualistic than the competing school of &stoicism;, its view of happiness was less activist than that of &aristotelianism; and can even be compared to some Eastern views like &taoism;. Epicurus founded his school in an Athenian garden in the generation after the death of Aristotle and it flourished throughout the Mediterranean for over 500 years.</def>
+</term>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='aestheticism' name='aestheticism'>
+  <source>From Greek aisthetikos: pertaining to perception; extended to refer to perception of the beautiful by Alexander Baumgarten.</source>
+  <def topic='ethics'>The idea that the highest values are aesthetic rather than ethical or religious. This idea is often associated with nineteenth-century &romanticism; in general, and personally with Friedrich Schiller (author of <cite>The Aesthetic Education of Man</cite>) and Friedrich Nietzsche, both of whom sometimes advocated making one's life a work of art.</def>
+</term>

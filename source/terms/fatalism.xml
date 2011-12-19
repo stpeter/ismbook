@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='fatalism' name='fatalism'>
+  <source>From Latin fatalis: destined, inevitable, necessary, doomed.</source>
+  <def topic='metaphysics'>The view that the fortunes of human beings are pre-determined; it differs from &determinism; in stressing the negative or tragic nature of that pre-determined fate (similar to &pessimism;).</def>
+</term>

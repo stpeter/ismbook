@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='interpretivism' name='interpretivism'>
+  <source>From Latin interpretari: to explain or understand.</source>
+  <def topic='epistemology'>The view that all knowledge is a matter of interpretation; a form of &relativism; opposed to &objectivism;. One extreme example of interpretivism is &deconstructionism;.</def>
+</term>

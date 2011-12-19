@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='secularism' name='secularism'>
+  <source>From Latin saeculum: the world.</source>
+  <def topic='metaphysics'>The principle (similar to &materialism;) that gods and purely spiritual entities do not exist.</def>
+  <def topic='ethics'>The idea (similar to &humanism;) that the affairs of this world should be the most important concerns for ethics and human life.</def>
+</term>

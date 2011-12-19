@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='interactionism' name='interactionism'>
+  <source>From English interact: to work together or exert mutual influence.</source>
+  <def topic='metaphysics'>A form of &dualism; asserting that mental events can cause physical events and vice-versa.</def>
+</term>

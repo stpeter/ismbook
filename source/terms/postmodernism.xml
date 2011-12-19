@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='postmodernism' name='postmodernism'>
+  <source>From Latin post: after, and from English modernism.</source>
+  <def topic='epistemology'>A radical form of &relativism; (similar to &polylogism; and opposed to &scientism; and &objectivism;) holding that there are no privileged viewpoints and that objective knowledge is effectively unattainable</def>
+  <def topic='aesthetics'>The theory and practice of art that devalued &representationalism; and &formalism; in favor of a kind of &eclecticism; and &experimentalism;.</def>
+</term>

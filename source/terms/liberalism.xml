@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='liberalism' name='liberalism'>
+  <source>From Latin liber: free.</source>
+  <def topic='politics'>The classical meaning meaning of liberalism is an emphasis on the freedom and rights of the individual. Although in America the word now refers to a kind of &egalitarianism; or even democratic &socialism;, elsewhere it still refers to something akin to modern &libertarianism;.</def>
+</term>

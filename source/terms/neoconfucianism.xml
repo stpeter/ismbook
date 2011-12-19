@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='neoconfucianism' name='neo-Confucianism'>
+  <source>See Confucianism.</source>
+  <def topic='ethics'>A modified variety of &confucianism; that addressed some of the concerns and views introduced into China by &buddhism; (similar in some ways to the changes in &aristotelianism; and &platonism; that resulted from the rise of &christianity;).</def>
+</term>

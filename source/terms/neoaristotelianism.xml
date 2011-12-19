@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='neoaristotelianism' name='neo-Aristotelianism'>
+  <source>See Aristotelianism.</source>
+  <def topic='ethics'>Any updated variety of &aristotelianism;, from the Middle Ages to the present; in particular, a strain of moral philosophy in the late 20th century that resuscitated "virtue ethics" and practical wisdom in opposition to the emphasis on moral rules and &deontologism; found in &kantianism;.</def>
+</term>

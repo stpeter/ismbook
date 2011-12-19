@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='cartesianism' name='Cartesianism'>
+  <source>From the name of the French philosopher Rene Descartes (1596-1650).</source>
+  <def topic='metaphysics'>Descartes is often considered the founder of modern philosophy (although his ideas owed much to medieval thinkers such as Avicenna). The signature ideas of Cartesianism are &dualism;, &rationalism;, and the mind-body dichotomy (i.e., a combination of &idealism; in the spiritual realm and of &mechanism; in the physical realm).</def>
+</term>

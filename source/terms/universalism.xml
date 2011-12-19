@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='universalism' name='universalism'>
+  <source>From Latin universalis: relating to all or to everything.</source>
+  <def topic='ethics'>The view (opposed to &individualism; or &personalism;) that the proper goal of life is the welfare of all human beings; see &altruism;.</def>
+  <def topic='ethics'>The view (opposed to &situationalism;) that principles applying to all situations should be weighted more heavily in ethical decision-making than the particulars of time or place; &deontologism; is one form of universalism;.</def>
+</term>

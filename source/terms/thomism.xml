@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='thomism' name='Thomism'>
+  <source>From the name of Christian theologian Thomas Aquinas (?1225-1274).</source>
+  <def topic='metaphysics'>The doctrines and legacy of Thomas Aquinas, who created a synthesis between &christianity; and &aristotelianism; (sometimes also called &neoaristotelianism;) that was quite influential in the &scholasticism; of the later Middle Ages.</def>
+</term>

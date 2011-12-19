@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='phenomenalism' name='phenomenalism'>
+  <source>From Greek phenomena: appearance.</source>
+  <def topic='epistemology'>A form of &subjectivism; or &relativism; holding that concepts describe only how things appear to us and therefore do not result in reliable knowledge of reality.</def>
+</term>

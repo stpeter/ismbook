@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='zoroastrianism' name='Zoroastrianism'>
+  <source>From the name of the Persian thinker Zoroaster (6th or 7th century BCE).</source>
+  <def topic='metaphysics'>A religion of ancient Persia that emphasized the neverending struggle between forces of good and forces of evil (a view which influenced both &gnosticism; and &manicheism;).</def>
+</term>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='neoplatonism' name='neo-Platonism'>
+  <source>See Platonism.</source>
+  <def topic='metaphysics'>The doctrines of Plotinus (205-270 CE) and his followers, or more generally the tradition of such thought stretching from late antiquity into the Middle Ages and early Renaissance. Neo-Platonism put greater emphasis on Plato's &dualism; and &idealism;, even to the point of a &spiritualism; that early Christian theologians like Augustine found congenial despite the basic &pantheism; of neo-Platonic ideas. The modern understanding of &aristotelianism; is heavily influenced by neo-Platonic interpretations.</def>
+</term>

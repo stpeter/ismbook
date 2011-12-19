@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='contextualism' name='contextualism'>
+  <source>From Latin contextus: connected or weaved together.</source>
+  <def topic='metaphysics'>The view that all entities are connected together; another word for &holism;.</def>
+  <def topic='epistemology'>The view that an entity cannot be known without understanding the full context of its connections to other entities.</def>
+  <def topic='ethics'>The view that ethical value is not absolute but dependent on a specific personal, historical, or societal context.</def>
+  <def topic='aesthetics'>The view that a work of art can be interpreted only in the light of its historical context, not absolutely.</def>
+</term>

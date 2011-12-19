@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='voluntaryism' name='voluntaryism'>
+  <source>From Latin voluntarius: relating to the will.</source>
+  <def topic='politics'>The view that all societal relations should be completely voluntary; another word for &anarchism;.</def>
+</term>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='mechanism' name='mechanism'>
+  <source>From Latin mechanisma: machine, contrivance.</source>
+  <def topic='metaphysics'>The doctrine, derived from &cartesianism;, that living things are in essence machines.</def>
+</term>

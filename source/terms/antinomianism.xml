@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='antinomianism' name='antinomianism'>
+  <source>From Greek anti against, and from Greek nomos: law.</source>
+  <def topic='ethics'>The doctrine that moral laws are not obligatory; see &immoralism;.</def>
+  <def topic='ethics'>The doctrine that moral laws do not apply those who have been graced with the favor of god.</def>
+</term>

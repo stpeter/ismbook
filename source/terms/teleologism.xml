@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='teleologism' name='teleologism'>
+  <source>From Greek telos: end or purpose, and from Greek logos: reason, theory.</source>
+  <def topic='metaphysics'>The view that ends or purposes are active, causative forces in the world, especially in the realms of biology (opposed to &darwinism;) and history.</def>
+</term>

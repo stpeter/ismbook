@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='materialism' name='materialism'>
+  <source>From Latin materialis: relating to matter.</source>
+  <def topic='metaphysics'>The view that fundamentally only matter exists. Materialism is opposed to &idealism; and considers any talk of the soul to be a throwback to the bad old days of &spiritualism; and &vitalism;. Because matter can be known completely in terms of physical laws (see &reductionism;), materialism often lends heavy support to &determinism;.</def>
+</term>

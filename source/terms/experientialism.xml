@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='experientialism' name='experientialism'>
+  <source>From English experiential: relating to or derived from experience.</source>
+  <def topic='epistemology'>A less common term for &empiricism;.</def>
+</term>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='modernism' name='modernism'>
+  <source>From Latin modernus: that which exists now.</source>
+  <def topic='aesthetics'>A movement of 20th-century art that opposed traditional &representationalism; and instead emphasized emotional &expressionism; or artistic &formalism; (and sometimes both, as in abstract expressionism).</def>
+</term>

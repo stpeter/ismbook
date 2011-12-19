@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='situationalism' name='situationalism'>
+  <source>From English situation: a specific combination of circumstances.</source>
+  <def topic='ethics'>The view that particular circumstances deserve to be weighted more heavily in ethical decision-making than general or universal principles.</def>
+</term>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='animism' name='animism'>
+  <source>From Latin anima: the breath or soul of a living being.</source>
+  <def topic='religion'>The idea that living spirits inhabit every existing thing (similar to but distinct from &pantheism;).</def>
+</term>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='atheism' name='atheism'>
+  <source>A privative term derived from Greek theos: god.</source>
+  <def topic='metaphysics'>Atheism is an active disbelief in the existence of gods, deities, and supernatural powers; in this respect it is similar to &secularism; and opposed to any variety of &theism;. Atheism is to be contrasted with &agnosticism;, which takes a skeptical attitude toward the existence of gods but does not proclaim disbelief. Popularly, atheism is often taken to imply a lack of any ideals or values whatsoever (nearly equivalent to &immoralism;), but this connotation rests on an assumption that religion is the only foundation for values (thus ignoring the possibility of &naturalism;).</def>
+</term>

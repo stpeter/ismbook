@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='illusionism' name='illusionism'>
+  <source>From Latin illusionem: deceipt.</source>
+  <def topic='metaphysics'>The idea that the external world is merely an illusion; a radical kind of &phenomenalism; associated with certain forms of &pessimism;, first posited by Artur Schopenhauer (1788-1860).</def>
+</term>

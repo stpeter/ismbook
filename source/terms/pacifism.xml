@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='pacifism' name='pacifism'>
+  <source>From Latin pax: peace.</source>
+  <def topic='politics'>The doctrine that the highest political or social value is peace. Another meaning of pacifism -- connected with the actions and views of reformers like Henry David Thoreau, Mohatma Gandhi, and Martin Luther King -- is the ideal of non-violence in human affairs (akin to the moral aspect of &anarchism;).</def>
+</term>

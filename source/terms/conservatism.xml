@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='conservatism' name='conservatism'>
+  <source>From Latin conservare: to keep or preserve.</source>
+  <def topic='approach'>Any approach to philosophy or a related discipline that seeks to preserve established practices or that resists change (one example might be &classicism; in the arts).</def>
+  <def topic='politics'>A political approach or movement that preserves existing institutions or that opposes changes to the established order of society (thus in opposition to &liberalism; or &progressivism;).</def>
+  </def>
+</term>

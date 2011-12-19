@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='accidentalism' name='accidentalism'>
+  <source>From Latin accidere: to fall or happen.</source>
+  <def topic='metaphysics'>The idea that some events simply happen and are not caused; the idea is one aspect of some defenses of freedom of the will (see &libertarianism;).</def>
+</term>

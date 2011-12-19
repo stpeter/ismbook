@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='anarchocapitalism' name='anarcho-capitalism'>
+  <source>From Greek anarchos: lacking a leader, and from English capital: wealth, especially as invested in production.</source>
+  <def topic='politics'>A form of &anarchism; that considers market relations and private property to be consistent with (indeed a prerequisite for) a fully free society.</def>
+</term>

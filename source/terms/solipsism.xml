@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='solipsism' name='solipsism'>
+  <source>From Latin solus: alone, and ipse: self.</source>
+  <def topic='epistemology'>A form of &subjectivism; or &relativism; claiming that one cannot know if physical reality or other human beings even exist, since one can know only one's own consciousness.</def>
+</term>

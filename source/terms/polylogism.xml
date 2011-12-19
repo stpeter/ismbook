@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='polylogism' name='polylogism'>
+  <source>From Greek poly: many, and from Greek logos: reason.</source>
+  <def topic='epistemology'>A form of &relativism; (similar to &perspectivism;) holding that there are many equally valid theories or beliefs about any given topic.</def>
+</term>

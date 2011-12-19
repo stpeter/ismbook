@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='relativism' name='relativism'>
+  <source>From English relative: depending on or determined by a relationship between two entities; not independent.</source>
+  <def topic='epistemology'>The view (opposed to &objectivism;) that truth or value is relative to an observer or group of observers. One example is cultural relativism, which claims that different cultures have different but perfectly legitimate and equally valid standards of truth and value (see &polylogism; and &postmodernism;). Relativism is often another word for &subjectivism;.</def> 
+</term>

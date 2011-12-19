@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='inductivism' name='inductivism'>
+  <source>From Latin inducere: to lead into.</source>
+  <def topic='epistemology'>The view that all knowledge is derived through processes of induction from experience; another term for &empiricism; or &experientialism;.</def>
+</term>

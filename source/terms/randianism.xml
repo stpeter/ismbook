@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='randianism' name='Randianism'>
+  <source>From the name of the Russian-American novelist and philosopher Ayn Rand (1905-1982).</source>
+  <def topic='philosophy'>A philosophical movement in 20th-century America that combined &objectivism; in metaphysics, &conceptualism; in epistemology, &individualism; in ethics, &libertarianism; in politics, and a kind of heroic &symbolism; in aesthetics; called by its adherents Objectivism (with a capital 'O').</def>
+</term>

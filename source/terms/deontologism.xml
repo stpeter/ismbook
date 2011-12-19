@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='deontologism' name='deontologism'>
+  <source>From Greek deontos: that which is binding, right, proper.</source>
+  <def topic='ethics'>Emphasis on universal imperatives such moral laws, duties, obligations, prohibitions, and the like (sometimes also called &imperativism;). &kantianism; is the prime example of a deontological theory. Deontologism is usually contrasted with &teleologism; (an emphasis on goals) or &consequentialism; (an emphasis on results), but sometimes is also contrasted with &egoism; or &eudaimonism; (an emphasis on personal happiness or fulfillment as opposed to conformance with moral imperatives). In practice, deontologism is often closely allied with &intuitionism;.</def> 
+</term>

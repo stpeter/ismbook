@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='holism' name='holism'>
+  <source>From Greek holos: whole, complete, entire.</source>
+  <def topic='metaphysics'>The idea that all things in the universe are inseparably connected. Holism is opposed to &dualism; but respects &particularism; and therefore is also generally opposed to &monism; (interconnection does not imply unity). The term is sometimes used to refer to absolute &collectivism;, but this usage is uncommon.</def>
+</term>

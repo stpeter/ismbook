@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='determinism' name='determinism'>
+  <source>From English determine: to ordain or fix beforehand; derived from Latin determinare: to limit or bound.</source>
+  <def topic='metaphysics'>The belief that all physical events and human actions are fixed or ordained by external forces before they happen. Determinists deny the existence of freely chosen human activity ("free will"), and the more consistent determinists even deny any personal responsibility for human actions. Determinists are usually adherents of &materialism;, although some social or economic determinists are more influenced by &marxism; than by the advance of physics, chemistry, and biology. In popular use, determinism has connotations of &fatalism;. In more technical discussions, determinism is sometimes called &necessitarianism;. The term is to be contrasted with &libertarianism;.</def>
+</term>

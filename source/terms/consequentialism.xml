@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='consequentialism' name='consequentialism'>
+  <source>From English consequential: following something else, especially as an effect or result; derived from Latin consequi: to follow closely.</source>
+  <def topic='ethics'>The view that ethical decisions are best or properly be made on the basis of the expected outcome or consequences of the action. Both &pragmatism; and &utilitarianism; are forms of consequentialism. Because consequentialist theories tend to focus on the impact of an action on other persons rather than the actor, in general they are varieties of &altruism; rather than &egoism;.</def>
+</term>

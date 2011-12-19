@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='pessimism' name='pessimism'>
+  <source>From Latin pessimus: worst.</source>
+  <def topic='metaphysics'>Specifically, the view of Artur Schopenhauer (1788-1860) that human nature and reality are essentially malevolent. More generally, the view (opposed to &optimism;) that knowledge and happiness are ultimately unattainable; degrees of pessimism range from mild (e.g., &stoicism;) to severe (e.g., &fatalism;).</def>
+</term>

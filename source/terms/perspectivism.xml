@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='perspectivism' name='perspectivism'>
+  <source>From Latin perspectivus: having to do with sight or vision.</source>
+  <def topic='epistemology'>The view (similar to &contextualism;) that judgments of truth and value depend on an individual's context or viewpoint. The term is usually applied only to the epistemology of Friedrich Nietzsche (1844-1900).</def>
+</term>

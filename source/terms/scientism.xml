@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='scientism' name='scientism'>
+  <source>From Latin scientia: knowledge, especially organized or experimental knowledge.</source>
+  <def topic='epistemology'>The view (similar to &reductionism;) that the methods of the natural or physical sciences are universally valid, and therefore should apply to the social sciences and the humanities as well.</def>
+</term>

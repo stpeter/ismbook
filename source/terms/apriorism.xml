@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='apriorism' name='apriorism'>
+  <source>From Latin a priori: that which comes before.</source>
+  <def topic='epistemology'>The view (opposed to &empiricism;) that some or all knowledge can be gained without reference to experience.</def>
+</term>

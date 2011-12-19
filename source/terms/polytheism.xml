@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='polytheism' name='polytheism'>
+  <source>From Greek poly: many, and from Greek theos: god.</source>
+  <def topic='metaphysics'>A form of &theism; holding that there is more than one god; it is compatible with &henotheism; but incompatible with &monotheism;, by which it was supplanted in the history of Western religion. Polytheism was the dominant view in Greek and Roman religion, while Judaism, &christianity;, and &islam; are monotheistic.</def>
+</term>

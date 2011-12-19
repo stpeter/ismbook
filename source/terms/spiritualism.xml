@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='spiritualism' name='spiritualism'>
+  <source>From Latin spiritus: the animating principle of humans or of supposed non-physical beings.</source>
+  <def topic='metaphysics'>The belief that there exist purely spiritual entities that do not have bodies or other physical manifestations, or that there exists a spiritual world or realm above or beyond the physical world.</def>
+  <def topic='epistemology'>Another term for &mysticism;.</def>
+  <def topic='ethics'>The view that spiritual concerns are more important than this-worldly concerns (a kind of &idealism; or &asceticism; that is opposed to &secularism;).</def>
+</term>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='totalitarianism' name='totalitarianism'>
+  <source>From English totality: the whole or entirety.</source>
+  <def topic='politics'>Advocacy of a society in which government possesses total control over the individual and all mediating institutions such as corporations, associations, and unions; &authoritarianism; or political &collectivism; taken to its logical conclusion.</def>
+</term>

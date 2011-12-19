@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='particularism' name='particularism'>
+  <source>From Latin particularis: relating to a part or an individual.</source>
+  <def topic='metaphysics'>The view that only particular entities exist; another term for metaphysical &individualism;.</def>
+</term>

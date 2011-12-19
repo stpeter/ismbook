@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='perfectionism' name='perfectionism'>
+  <source>From Latin perfectionem: completed, finished.</source>
+  <def topic='metaphysics'>The view that (some) human beings can or have achieved perfection in this life; also called perfectibilism.</def>
+  <def topic='ethics'>The view that moral perfection is or should be the goal of living.</def>
+</term>

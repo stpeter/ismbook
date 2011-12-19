@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='fascism' name='fascism'>
+  <source>From Italian fasci: groups (of men), in which the Italian Fascist movement began.</source>
+  <def topic='politics'>A theory and practice of extreme nationalism that developed originally in Italy and spread throughout other parts of the world. Although fascism was ostensibly opposed to &communism; because it allowed private property (albeit under tight government control), it did not differ in essentials from other forms of 20th-century &collectivism;, &authoritarianism;, or &totalitarianism;.</def>
+</term>

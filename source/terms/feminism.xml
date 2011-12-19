@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='feminism' name='feminism'>
+  <source>From Latin femina: woman.</source>
+  <def topic='politics'>A movement of 20-century politics holding that the rights of women are equal to those of men. Feminism is sometimes extended to assert that women are superior to men in ethics (e.g., more sensitive or altruistic) or even in epistemology (more insightful).</def>
+</term>

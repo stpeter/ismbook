@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='monotheism' name='monotheism'>
+  <source>From Greek monos: single, and from Greek theos: god.</source>
+  <def topic='metaphysics'>The belief that there is only one god, or that the gods of different religions are in fact different manifestations of the one true god. Monotheism is opposed to other forms of &theism; such as &henotheism; and &polytheism;, as well as to &pantheism; and &atheism;.</def>
+</term>

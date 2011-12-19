@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='mysticism' name='mysticism'>
+  <source>From Greek mustikos: relating to the ancient mystery religions or their adherents; later, having to do with any sacred mystery.</source>
+  <def topic='epistemology'>Any belief in the existence and validity of a human cognitive power above reason or perception -- usually a kind of intuition or feeling that enables a person to obtain special insights into god, values, or the nature of the universe. The term "mysticism" usually carries religious connotations; similar views in philosophy are &irrationalism; in epistemology and &intuitionism; in ethics.</def>
+</term>

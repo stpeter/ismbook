@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='anthropocentrism' name='anthropocentrism'>
+  <source>From Greek anthropos: human being, and from Latin centrum: middle point.</source>
+  <def topic='ethics'>The doctrine that humanity is the central fact of existence and that all ethical matters are to be gauged by how they affect human interests.</def>
+</term>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='fallibilism' name='fallibilism'>
+  <source>From Latin fallibilis: liable to be deceived or mistaken.</source>
+  <def topic='epistemology'>The view that all human beings are liable to error. Although there is a kinship between fallibilism and &skepticism;, the term fallibilism is usually used to refer only to the Christian doctrine that human beings cannot know the mind of God (even that the Catholic Pope, too, can be mistaken).</def>
+</term>

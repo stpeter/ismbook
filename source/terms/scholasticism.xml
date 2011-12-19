@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='scholasticism' name='scholasticism'>
+  <source>From Latin schola: school.</source>
+  <def topic='metaphysics'>Any approach to philosophical inquiry that is focuses on academic disputes rather than real-world concerns, especially in the high to late Middle Ages (~1100-1500 CE).</def>
+</term>

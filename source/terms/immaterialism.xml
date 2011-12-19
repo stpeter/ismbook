@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='immaterialism' name='immaterialism'>
+  <source>From Latin materialis: relating to matter.</source>
+  <def topic='metaphysics'>A radical form of &idealism; holding that material things exist only as the ideas or perceptions of a mind.</def>
+</term>

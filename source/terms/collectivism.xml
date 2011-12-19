@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='collectivism' name='collectivism'>
+  <source>From Latin colligere: to gather together.</source>
+  <def topic='politics'>A doctrine in political philosophy (and sometimes ethics) holding that the individual's actions should benefit not the individual but some kind of collective organization (such as a tribe, community, profession, or state). Collectivism in political theory depends on &altruism; in ethics. There are many forms of collectivism in political reality, such as tribalism, &communism;, &socialism;, &fascism;, certain forms of trade unionism, &authoritarianism;, &totalitarianism;, and &communalism;. The term is most often associated with totalitarian governments of the twentieth century, but is uncommon in everyday language.</def>
+</term>

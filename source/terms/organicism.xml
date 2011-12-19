@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='organicism' name='organicism'>
+  <source>From Greek organikos: pertaining to or structured like an organ, instrument, or tool.</source>
+  <def topic='metaphysics'>The idea that the universe is or is like a living organism. This view is similar to &holism;, although holism asserts that all parts of reality are interconnected rather than that the earth or the universe is a living thing.</def>
+  <def topic='aesthetics'>The idea (which goes back at least as far as Aristotle) that a work of art should be an organic whole, with all its parts or aspects serving one central purpose.</def>
+</term>

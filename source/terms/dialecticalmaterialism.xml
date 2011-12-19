@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='dialecticalmaterialism' name='dialectical materialism'>
+  <source>From Greek dialektikos: relating to dialogue or discussion, and Latin materia: physical stuff.</source>
+  <def topic='politics'>The doctrine or theory of history espoused by &marxism;. The dialetical aspect derives from Hegel, who thought that history proceeds in something like the stages of a conversation, in which each stage overcomes the previous stages and therefore comes closer to finally attained unity or truth (see &hegelianism;). The materialist aspect replaced Hegel's emphasis on spiritual improvement and the collective unconscious with a focus on economic classes and the economic-technological basis for social relations. Thus dialectical materialism posits that history progresses in stages that are based solely on ownership of the means of production: i.e., feudalism replaced aristocracy, &capitalism; replaced feudalism, and true &socialism; or &communism; will replace capitalism -- all according to inexorable, immutable laws (see &historicaldeterminism;).</def>
+</term>

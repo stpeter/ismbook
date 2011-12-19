@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='agnosticism' name='agnosticism'>
+  <source>From Greek agnostos: unknowing, unknown, unknowable.</source>
+  <def topic='epistemology'>The idea that one cannot know whether or not gods exist. Agnosticism adopts a "wait-and-see" attitude toward the existence of gods (similar in this regard to &skepticism;) and therefore is different from &atheism;, which positively asserts that gods do not exist.</def>
+</term>

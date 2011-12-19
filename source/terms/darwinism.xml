@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='darwinism' name='Darwinism'>
+  <source>From the name of the English biologist Charles Darwin (1809-1882).</source>
+  <def topic='metaphysics'>The theory (strictly speaking biological rather than philosophical) that all living things have descended from earlier common ancestors through processes of biological evolution such as natural selection; opposed by &creationism;.</def>
+</term>

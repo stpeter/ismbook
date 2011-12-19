@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='indeterminism' name='indeterminism'>
+  <source>From Latin indeterminatus: not fixed or ordained beforehand.</source>
+  <def topic='metaphysics'>Any view (opposed to &determinism; and similar to &accidentalism;) holding that at least some events or human actions are not determined by outside causes; the idea of the "atomic swerve" in &epicureanism; is one example.</def>
+</term>

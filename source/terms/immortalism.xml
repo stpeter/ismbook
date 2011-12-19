@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='immortalism' name='immortalism'>
+  <source>From Latin immortalis: living forever.</source>
+  <def topic='metaphysics'>The belief that human beings (or, more precisely, their souls) survive after death. This idea is sometimes called athanatism (from the Greek word for immortal), the opposite of which is thanatism.</def>
+</term>

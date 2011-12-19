@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='intentionalism' name='intentionalism'>
+  <source>From Latin intentionem: mental effort, attention, purpose.</source>
+  <def topic='metaphysics'>The principle, common to many varieties of epistemological &realism;, that consciousness is always consciousness of a physical entity or some aspect of reality (and thus that "pure consciousness" does not exist).</def>
+</term>

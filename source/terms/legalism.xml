@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='legalism' name='legalism'>
+  <source>From English legal: relating to law.</source>
+  <def topic='politics'>An early Chinese form of &authoritarianism;, most often associated with the harsh rule of the Ch'in period.</def>
+</term>

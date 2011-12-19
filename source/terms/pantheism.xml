@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='pantheism' name='pantheism'>
+  <source>From Greek pan: all and Greek theos: god.</source>
+  <def topic='metaphysics'>The belief that God is the universe and the universe is God -- or, more generally, that the universe is divine. While this idea often exists in a 'primitive' form (usually called &animism;), it has also been expanded upon philosophically, for example by Spinoza (1632-1677).</def>
+</term>

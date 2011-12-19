@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='utopianism' name='utopianism'>
+  <source>Coined by Sir Thomas More (1478-1535) from Greek ou: not, and from Greek topos place (literally, "no place").</source>
+  <def topic='politics'>Any view of societal or political relations that advocates the creation of a perfect society; see also &perfectionism;.</def>
+</term>

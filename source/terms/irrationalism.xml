@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='irrationalism' name='irrationalism'>
+  <source>From Latin irrationalis: contrary to reason.</source>
+  <def topic='epistemology'>A form of &subjectivism; holding that knowledge and values are relative to each individual person, and therefore denouncing objectivity and elevating irrationality. Another term for &emotionalism; or &nihilism;.</def>
+</term>

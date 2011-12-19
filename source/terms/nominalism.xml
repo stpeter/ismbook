@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='nominalism' name='nominalism'>
+  <source>From Latin nomen: name.</source>
+  <def topic='epistemology'>The doctrine (similar to &subjectivism;) that words are simply conventionally-accepted symbols or names that human beings happen to use for their own convenience, lacking objective meaning or correspondence to reality. The great movements of nominalistic thought occurred among the Sophists of ancient Greece, in the high Middle Ages (see also &conceptualism;), and in the twentieth century (among some advocates of &logicalpositivism;).</def>
+</term>

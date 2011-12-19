@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='optimism' name='optimism'>
+  <source>From Latin optimus: best.</source>
+  <def topic='metaphysics'>Specifically, the belief of Leibniz (1646-1716) that this is "the best of all possible worlds". More generally, the view (opposed to &pessimism;) that knowledge and happiness are possible to human beings; in this sense, &eudaimonism; is a form of optimism.</def>
+</term>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='anarchosyndicalism' name='anarcho-syndicalism'>
+  <source>From Greek anarchos: lacking a leader, and from French chambre syndicale: a trade union.</source>
+  <def topic='politics'>A form of &anarchism; that opposes markets and property as yet another form of exploitation, instead advocating ownership of the means of production by groups ("syndicates") of workers.</def>
+</term>

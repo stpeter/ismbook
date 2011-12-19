@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='progressivism' name='progressivism'>
+  <source>From Latin progressus: stepping forth, going ahead.</source>
+  <def topic='politics'>A political movement that attempts to push society away from established practices (thus in opposition to &conservatism;).</def>
+  </def>
+</term>

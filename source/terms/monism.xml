@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='monism' name='monism'>
+  <source>From Greek monos: single.</source>
+  <def topic='metaphysics'>The view (opposed to &dualism;) that reality consists of only one type of substance, historically either mind (see &mentalism;) or matter (see &materialism;).</def>
+</term>

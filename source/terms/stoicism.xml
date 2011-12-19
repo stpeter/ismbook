@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='stoicism' name='Stoicism'>
+  <source>From Greeek stoa: the portico at which Zeno (the founder of Stoicism) lectured.</source>
+  <def topic='ethics'>A philosophical school, popular in the Roman Empire, that emphasized the ethical independence of the individual by stressing that "virtue is enough for happiness" and therefore that the psychological state of the individual should not be influenced by the presence or absence of worldly values such as friends, wealth, respect, and honor. Further, the Stoics believed that true virtue or excellence lies in not being affected by outside events and in not experiencing passions or emotions, but instead in "living according to reason". In its &dualism; and modified &intellectualism;, Stoicism was an heir to &socraticism; and was a kind of popularized &platonism; that opposed the &eudaimonism; of &aristotelianism; and traditional Greek ethics.</def>
+</term>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='structuralism' name='structuralism'>
+  <source>From Latin structura: that which is arranged in a particular fashion.</source>
+  <def topic='epistemology'>The view that language or society is to be studied in terms of structural units or the arrangement of its parts (opposed, for example, to &dynamism;); in particular, epistemological structuralism influenced various schools of social, political, and literary theory in the 20th century, often overlapping with &neomarxism; and related political movements.</def>
+</term>

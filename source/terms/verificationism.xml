@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='verificationism' name='verificationism'>
+  <source>From English verify: to prove or show to be true based on evidence or testimony.</source>
+  <def topic='epistemology'>The view (similar to &operationalism;) that the truth or meaning of a statement consists in the methods by which it is verified; see also &falsificationism;.</def>
+</term>

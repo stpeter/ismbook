@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='gnosticism' name='gnosticism'>
+  <source>From Greek gnosis: knowledge or insight.</source>
+  <def topic='ethics'>An ancient Christian/pagan movement whose metaphysics was a kind of &dualism; and &pessimism; but whose ethics was a kind of &individualism; since it stressed the potential divinity of each person.</def>
+</term>

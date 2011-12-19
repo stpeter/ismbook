@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='utilitarianism' name='utilitarianism'>
+  <source>From English utility: usefulness.</source>
+  <def topic='ethics'>A form of &consequentialism;, initiated by Jeremy Bentham (1748-1832) and peaking with John Stuart Mill (1806-1873), that advocated the principle of "the greatest good for the greatest number" in ethics and society. Utlitarianism was usually a form of &altruism;, although Mill advocated a kind of &individualism; since he thought that the best way for humanity to make progress was through the achievements of individuals. Utilitarianism has never made a deep impression in America, where consequentialism has generally taken the form of &pragmatism;.</def>
+</term>

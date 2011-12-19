@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='formalism' name='formalism'>
+  <source>From English form: the shape of a thing or the arrangement of its parts.</source>
+  <def topic='ethics'>A theory that emphasizes adherence to formal rules, usually in preference to the benefits or consequences of human action; an example is &deontologism;.</def>
+  <def topic='aesthetics'>A theory that emphasizes the importance of artistic form, often in preference to artistic content; examples include some varieities of &classicism; and &modernism;.</def>
+</term>

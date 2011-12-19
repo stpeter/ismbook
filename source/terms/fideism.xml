@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='fideism' name='fideism'>
+  <source>From Latin fides: faith.</source>
+  <def topic='epistemology'>Any religious doctrine that emphasizes faith over (or to the exclusion of) reason.</def>
+</term>

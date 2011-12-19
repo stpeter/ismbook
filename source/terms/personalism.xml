@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='personalism' name='personalism'>
+  <source>From Latin persona: a character in a play, the person so represented, an individual having legal rights and status.</source>
+  <def topic='ethics'>The view that the individual person is of supreme value; another term for &individualism;.</def>
+</term>

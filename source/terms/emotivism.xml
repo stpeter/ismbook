@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='emotivism' name='emotivism'>
+  <source>From English emotive: pertaining to feeling or passion; derived from Latin emovere: to move out.</source>
+  <def topic='ethics'>A theory and movement of the early twentieth century that held value-judgments to be nothing more than expressions of emotion (e.g., 'Hitler is evil' really means 'Boo Hitler!'); an extreme form of &subjectivism;.</def>
+</term>

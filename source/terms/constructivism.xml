@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='constructivism' name='constructivism'>
+  <source>From English construct: to make by fitting together constituent parts, or to form in the mind; derived from Latin construere: to pile up, to build.</source>
+  <def topic='epistemology'>A radical kind of &subjectivism; positing that reality does not exist outside of human conceptions, and that human beings form or construct reality through the activity of their minds.</def>
+</term>

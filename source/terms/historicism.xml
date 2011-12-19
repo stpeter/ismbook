@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='historicism' name='historicism'>
+  <source>From English history: the systematic study of the past; derived from Greek historia: an investigation or account of something.</source>
+  <def topic='politics'>The idea that inexorable laws determine all historical events; the term is essentially equivalent to &historicaldeterminism;, although without the overtones of &marxism;.</def>
+</term>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='foundationalism' name='foundationalism'>
+  <source>From English foundation: the groundwork or substructure of a building or, metaphorically, of a theory.</source>
+  <def topic='general'>An approach to philosophical inquiry that places first priority on defining the underlying principles of a discipline; essentially a kind of &reductionism; within philosophy.</def>
+</term>

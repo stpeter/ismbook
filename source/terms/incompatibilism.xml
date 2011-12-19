@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='incompatibilism' name='incompatibilism'>
+  <source>From Latin in: not, and from Latin compatibilis: sympathetic or mutually tolerant.</source>
+  <def topic='metaphysics'>The view that a full physical description of the brain would be incompatible with the subjective experience of volition or free will; contrast with &compatibilism;, &libertarianism;, and &determinism;.</def>
+</term>

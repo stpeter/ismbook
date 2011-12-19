@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='falsificationism' name='falsificationism'>
+  <source>From English falsify: to prove or show to be false based on evidence or testimony.</source>
+  <def topic='epistemology'>The view (first expounded by Karl Popper) that a statement or theory has the potential to be true or valid only if it is falsifiable, i.e., only if it sets forth the types of evidence that could show it to be false. According to falsificationalism, any other statement or theory is outside the realm of scientific investigation and therefore is meaningless.</def>
+</term>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='historicaldeterminism' name='historical determinism'>
+  <source>See historicism and determinism.</source>
+  <def topic='politics'>The doctrine that the course of history is determined by material or spiritual forces that are not open to human volition or change. Examples include the spiritualized &historicism; of &hegelianism; and the &dialecticalmaterialism; of &marxism;.</def>
+</term>

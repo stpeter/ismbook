@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='ascriptivism' name='ascriptivism'>
+  <source>From English ascribe: to attribute something to someone.</source>
+  <def topic='metaphysics'>The view that human beings are to be held responsible for their actions even if &determinism; is true.</def>
+</term>

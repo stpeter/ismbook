@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='emotionalism' name='emotionalism'>
+  <source>From English emotion: a mental-physical passion, disturbance, or movement; derived from Latin emovere: to move out.</source>
+  <def topic='ethics'>Any ethical theory that is based on feeling as opposed to reason; the term often has connotations of &nihilism; or &irrationalism;.</def>
+  <def topic='epistemology'>Any theory of knowledge that considers feeling to be a valid means of knowledge (cf. &intuitionism;).</def>
+</term>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='environmentalism' name='environmentalism'>
+  <source>From English environment: the physical and biological conditions of a particular area, often extended to apply to the entire planet; derived from Old French environ: surroundings.</source>
+  <def topic='ethics'>The view that the health of the biosphere or of planet Earth is more important than technological advancement, economic progress, or the success of humanity.</def>
+</term>

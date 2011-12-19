@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='sensationalism' name='sensationalism'>
+  <source>From Latin sensationem: relating to the senses of perception.</source>
+  <def topic='epistemology'>A radical form of &representationalism; positing that all knowledge is constructed from or consists of pure sensations; some adherents even claim that we have knowledge only of sensations. (Sometimes also called sensationism.)</def>
+</term>

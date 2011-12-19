@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='eternalism' name='eternalism'>
+  <source>From Latin aeternus: an age.</source>
+  <def topic='metaphysics'>The view (opposed to &creationism;) that the universe is eternal.</def>
+</term>

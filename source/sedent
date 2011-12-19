@@ -1,0 +1,7 @@
+# a sed script to generate ism.ent
+
+# entity madness in XSLT
+s/openangle/</g
+s/closeangle/>/g
+
+# END

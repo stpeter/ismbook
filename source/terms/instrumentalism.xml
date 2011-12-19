@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='instrumentalism' name='instrumentalism'>
+  <source>From Latin instrumentum: an implement or tool.</source>
+  <def topic='epistemology'>The view (similar to &pragmatism;) that concepts are merely useful instruments, properly evaluated not as true or false but as effective or ineffective.</def>
+</term>

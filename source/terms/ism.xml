@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='ism' name='ism'>
+  <source>From the Greek suffixes -ismos: the action of doing something, and from Greek -isma: the result of such action.</source>
+  <def topic='general'>The action or practice of doing something (e.g., terrorism, patriotism).</def>
+  <def topic='general'>An instance of a certain kind of action or practice (e.g., witticism, Americanism).</def>
+  <def topic='general'>The condition of being a certain way (e.g., barbarism, alcoholism).</def>
+  <def topic='general'>A theory, doctrine, movement, or approach in philosophy, religion, politics, science, the arts, or a related discipline. Examples from philosophy include &consequentialism;, &emotivism;, &epicureanism;, and &syncretism;.</def>
+</term>

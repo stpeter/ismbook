@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='representationalism' name='representationalism'>
+  <source>From English represent: to present clearly before the mind through description or imagination.</source>
+  <def topic='epistemology'>The idea (opposed to &realism;) that the only things we can know are our representations of the world (e.g., ideas, perceptions, beliefs, etc.), not the world itself. The term is most often used in discussions of perception; the more general term is &phenomenalism;.</def>
+  <def topic='aesthetics'>The principle that visual art should represent reality (sometimes also called &realism;).</def>
+</term>

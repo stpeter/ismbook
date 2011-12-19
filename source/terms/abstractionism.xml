@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='abstractionism' name='abstractionism'>
+  <source>From Latin abstractus: drawn away or out from, derived, removed, separated.</source>
+  <def topic='metaphysics'>The doctrine that ideas or abstractions actually exist; see &idealism; and &platonism;.</def>
+  <def topic='epistemology'>The view that knowledge is gained only through abstraction from particulars; more commonly called &conceptualism;.</def>
+  <def topic='aesthetics'>The doctrine that artistic abstraction is more valuable or important than representation, especially in the visual arts; see &modernism; and &expressionism;.</def>
+</term>

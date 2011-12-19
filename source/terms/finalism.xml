@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='finalism' name='finalism'>
+  <source>From Latin finalis: relating to an end.</source>
+  <def topic='metaphysics'>Another term for &teleologism;.</def>
+</term>

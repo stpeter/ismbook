@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='conventionalism' name='conventionalism'>
+  <source>From English conventional: arbitrarily or artificially determined, in accordance with accepted standards of truth, conduct, or taste; derived from Latin conventionem: meeting or assembly.</source>
+  <def topic='epistemology'>A form of social &subjectivism; or &relativism; holding that truth, good, and beauty are merely a matter of arbitrary or artificial social convention and are not objective or scientific in any way.</def>
+</term>

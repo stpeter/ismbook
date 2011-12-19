@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='intrinsicism' name='intrinsicism'>
+  <source>From Latin intrinsecus: inward, situated within.</source>
+  <def topic='epistemology'>The view that truth and value are fully independent of and unaffected by human interests and concerns; a less common term for epistemological &realism; or &idealism;.</def>
+</term>

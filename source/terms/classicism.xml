@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='classicism' name='classicism'>
+  <source>From Latin classicus: of the highest class, of the first order.</source>
+  <def topic='aesthetics'>In common usage, classicism describes an emphasis or over-emphasis on past (especially Greek and Latin) practice, examples, and rules, mainly in the making of art. In aesthetics, classicism is usually contrasted historically and philosophically with &romanticism;.</def>
+</term>

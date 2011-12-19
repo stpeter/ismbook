@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='operationalism' name='operationalism'>
+  <source>From Latin operari: to work, to labor, to complete a task.</source>
+  <def topic='epistemology'>A kind of radical &empiricism; holding that the meaning of a word is determined by the specific nature of the physical action or task to which it refers, and that different physical actions have different meanings even if referred to by the same word (e.g., assault with a stick and assault with one's fist are two different operations and thus two different concepts).</def>
+</term>

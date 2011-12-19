@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='coherentism' name='coherentism'>
+  <source>From Latin coherere: to stick together.</source>
+  <def topic='epistemology'>The view that a statement is true because of its relationship to or coherence with other statements in a consistent network or system of statements.</def>
+</term>

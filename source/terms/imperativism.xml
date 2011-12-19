@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='imperativism' name='imperativism'>
+  <source>From Latin imperativus: having to do with a command.</source>
+  <def topic='ethics'>A less common term for &deontologism;.</def>
+</term>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='naturalism' name='naturalism'>
+  <source>From Latin natura: the character or course of things.</source>
+  <def topic='metaphysics'>The idea that the universe operates according to its own laws, without spiritual intervention (opposed to &theism; and &spiritualism;, but compatible with &deism;).</def>
+  <def topic='ethics'>The view that some or all human values are based on the characteristics of the human organism -- values such as food, water, shelter, safety, psychological closeness, the attainment of knowledge, and so on. For example, &existentialism; could be considered a humanistic form of &individualism;, but it differs from many other forms of &humanism; in denying ethical naturalism.</def>economic &determinism;
+  <def topic='aesthetics'>The theory that the purpose of art (especially literature) is to present human experience "as is" without evaluation or the projection of ethical ideals (historically, this view developed in reaction to &romanticism;).</def>
+</term>

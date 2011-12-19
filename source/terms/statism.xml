@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='statism' name='statism'>
+  <source>From English state: the governing body of a sovereign nation.</source>
+  <def topic='politics'>A form of &collectivism; that advocates government power, control, or ownership; &socialism;, &communism;, and &fascism; are more specific forms of statism.</def>
+</term>

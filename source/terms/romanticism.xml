@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='romanticism' name='romanticism'>
+  <source>From French romans: a heroic tale written in a vernacular language.</source>
+  <def topic='aesthetics'>A theory and movement of 19th century art emphasizing a free-flowing style, expression of emotion, and concern with values and personal experience in contrast to the emphasis on artistic rules in &classicism;. In philosophy the term is often equivalent to &emotionalism;.</def>
+</term>

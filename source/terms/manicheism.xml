@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='manicheism' name='Manicheism'>
+  <source>From the name of the Greek theologian Manes or Manicheus (3rd century CE).</source>
+  <def topic='metaphysics'>An early, heretical sect of &christianity; hosting that good and evil, God and Satan were co-eternal and equally powerful; similar in its &dualism; to &gnosticism;.</def>
+</term>

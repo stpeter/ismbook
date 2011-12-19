@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='symbolism' name='symbolism'>
+  <source>From Greek sumbolon: mark, token, an object that represents another object or an idea.</source>
+  <def topic='aesthetics'>The theory that the central purpose of art or literature is to present striking aesthetic images (often symbols that stand for concepts or ideas).</def>
+</term>

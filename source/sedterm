@@ -1,0 +1,26 @@
+# a sed script to generate termlist.xml
+
+# we need elements, not tags
+s/>/\/>/
+
+# add a newline at the end for further processing
+${
+/^$/!{
+    H
+    s/.*//
+    }
+}
+
+# now prepend <terms> and append </terms> so we can handle with XSLT
+/^$/!{
+     H
+     d
+     }
+/^$/{
+    x
+    s/^\n/<terms>/
+    s/$/<\/terms>/
+    G
+}
+
+# END

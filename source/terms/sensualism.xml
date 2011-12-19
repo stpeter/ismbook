@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='sensualism' name='sensualism'>
+  <source>From Latin sensualis: relating to the senses of perception.</source>
+  <def topic='epistemology'>Another term for &sensationalism;,</def>
+  <def topic='ethics'>A form of &hedonism; that emphasizes the pleasures of the senses or of the body as opposed to the pleasures or activities of the mind (as in &rationalism;).</def>
+</term>
