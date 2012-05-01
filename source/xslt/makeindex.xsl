@@ -6,7 +6,7 @@
   <xsl:template match='/'>
     <html>
       <head>
-        <title>The Ism Book</title>
+        <title>The Ism Book: A Field Guide to Philosophy</title>
         <link rel='stylesheet' type='text/css' href='style.css'/>
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
         <meta name='DC.Creator' content='Peter Saint-Andre'/>
@@ -14,7 +14,7 @@
         <meta name='viewport' content='width=device-width'/>
       </head>
       <body>
-        <h1>The Ism Book</h1>
+        <h1>The Ism Book: A Field Guide to Philosophy</h1>
         <h2>by <a href='https://stpeter.im/'>Peter Saint-Andre</a></h2>
         <p>The currently featured <a href="ism.html">ism</a> is:</p>
         <blockquote class='featured'>
@@ -27,7 +27,7 @@
             <xsl:apply-templates select='/term/def'/>
           </p>
         </blockquote>
-        <form method='get' action='http://www.google.com/search'>Interested in something other than <xsl:value-of select='/term/@name'/>?  <a href="ismlist.html">Surf the list</a> or search <a href="about.html">the site</a>: <input type='text' name='q' size='17' maxlength='255'/><input type='hidden' name='domains' value='ismbook.com'/><input type='hidden' name='sitesearch' value='ismbook.com'/></form>
+        <form method='get' id='search' action='https://duckduckgo.com/'>Interested in something other than <xsl:value-of select='/term/@name'/>?  <a href="ismlist.html">Surf the list</a> or search <a href="about.html">the site</a>: <input type='hidden' name='sites' value='ismbook.com'/><input type='text' name='q' maxlength='255'/><input type='submit' value='DuckDuckGo Search' style='visibility: hidden;'/></form>
         <p><a href='http://creativecommons.org/publicdomain/zero/1.0/'>No Rights Reserved</a></p>
       </body>
     </html>
