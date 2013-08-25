@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='Mohism' name='Mohism'>
+  <source>From the name of the Chinese philosopher Mozi (440-360 BCE).</source>
+  <def topic='ethics'></def>
+</term>
