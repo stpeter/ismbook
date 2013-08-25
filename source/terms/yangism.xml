@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='yangism' name='Yangism'>
+  <source>From the name of the Chinese philosopher Yang Zhu (440–360 BCE).</source>
+  <def topic='ethics'>A school of philosophy that predated the similar school &epicureanism; and influenced &taoism;. It held that satisfying one's own desires was the most important pursuit one could maintain, as long as one did not cause harm to himself. It rejected the beliefs of &legalism;, &confucianism;, and &mohism;, competing philosophies at the time.</def>
+</term>
