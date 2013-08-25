@@ -4,7 +4,7 @@
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
-<term id='Mohism' name='Mohism'>
+<term id='mohism' name='Mohism'>
   <source>From the name of the Chinese philosopher Mozi (440-360 BCE).</source>
   <def topic='ethics'></def>
 </term>
