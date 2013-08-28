@@ -9,9 +9,10 @@
       <head>
         <title><xsl:value-of select='/term/@name'/></title>
         <link rel='stylesheet' type='text/css' href='style.css'/>
+        <link rel="schema.dcterms" href="http://purl.org/dc/terms/"/>
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
-        <meta name='DC.Creator' content='Peter Saint-Andre'/>
-        <meta name='DC.Rights' content='http://creativecommons.org/publicdomain/zero/1.0/'/>
+        <meta name='DCTerms.Creator' content='Peter Saint-Andre'/>
+        <meta name='DCTerms.Rights' content='http://creativecommons.org/publicdomain/zero/1.0/'/>
         <meta name='viewport' content='width=device-width'/>
       </head>
       <body>
