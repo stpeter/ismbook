@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='amoralism' name='amoralism'>
+  <source>From Latin moralis: pertaining to customs or rules of behavior.</source>
+  <def topic='ethics'>The doctrine that there are no moral facts, i.e., that ethical principles do not have a separate objective reality or basis; this view is opposed to &objectivism; but is not necessarily a form of &subjectivism;.</def>
+</term>
