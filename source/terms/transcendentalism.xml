@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
@@ -7,5 +7,5 @@
 <term id='transcendentalism' name='transcendentalism'>
   <source>From Latin transcendentalis: going beyond or above something.</source>
   <def topic='metaphysics'>Any approach to philosophy holding that there is an aspect of reality higher than the physical world of perception and experience; another term for &idealism;, often used to refer to &kantianism; or even &spiritualism;.</def>
-  <def topic='ethics'>A school of nineteenth century American philosophy initiated by Ralph Waldo Emerson (1803-1882); it advocated a combination of &optimism; and &individualism; that emphasized self-reliance and self-fulfillment in harmony with nature.</def>
+  <def topic='ethics'>A school of nineteenth century American philosophy initiated by Ralph Waldo Emerson (1803&#8211;1882); it advocated a combination of &optimism; and &individualism; that emphasized self-reliance and self-fulfillment in harmony with nature.</def>
 </term>

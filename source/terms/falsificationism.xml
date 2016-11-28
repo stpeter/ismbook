@@ -1,9 +1,10 @@
-<!-- License: this file is in the public domain -->
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
 <term id='falsificationism' name='falsificationism'>
   <source>From English falsify: to prove or show to be false based on evidence or testimony.</source>
-  <def topic='epistemology'>The view, first expounded by Karl Popper (1902-1994), that a scientific theory has the potential to be true only if it describes the types of evidence that could prove it false. According to Popper, "a theory which is not refutable by any conceivable event is non-scientific" and thus "the criterion of the scientific status of a theory is its falsifiability, or refutability, or testability."</def>
+  <def topic='epistemology'>The view, first expounded by Karl Popper (1902&#8211;1994), that a scientific theory has the potential to be true only if it describes the types of evidence that could prove it false. According to Popper, "a theory which is not refutable by any conceivable event is non-scientific" and thus "the criterion of the scientific status of a theory is its falsifiability, or refutability, or testability."</def>
 </term>

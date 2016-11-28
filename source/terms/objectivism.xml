@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
@@ -8,5 +8,5 @@
   <source>From Latin objectum: that which is presented to consciousness.</source>
   <def topic='metaphysics'>The doctrine that reality exists outside of the mind and that entities retain their identity no matter what human beings think or feel about them; another word for &realism;, in opposition to &subjectivism;.</def>
   <def topic='ethics'>The view that there are standards of value and conduct based on the reality of human nature; another term for &naturalism;.</def>
-  <def topic='system'>The self-described name for the ideas of philosophical novelist Ayn Rand (1905-1982), usually with a capital 'O'.</def>
+  <def topic='system'>The self-described name for the philosophy of Ayn Rand (1905&#8211;1982), usually with a capital 'O'.</def>
 </term>

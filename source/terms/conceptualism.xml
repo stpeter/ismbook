@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
 <term id='conceptualism' name='conceptualism'>
   <source>From Latin conceptum: something conceived, an idea.</source>
-  <def topic='epistemology'>The view that conceptual knowledge consists of non-arbitrary abstractions from perceptual knowledge, but that concepts do not have an independent existence. Conceptualism thus opposes both &nominalism; and &realism;. Although the main conceptualist in philosophical history was Peter Abailard (1079-1142), &aristotelianism; is also sometimes considered to be a form of conceptualism.</def>
+  <def topic='epistemology'>The view that conceptual knowledge consists of non-arbitrary abstractions from perceptual knowledge, but that concepts do not have an independent existence. Conceptualism thus opposes both &nominalism; and &realism;. Although the main conceptualist in philosophical history was Peter Abailard (1079&#8211;1142), &aristotelianism; is also sometimes considered to be a form of conceptualism.</def>
 </term>

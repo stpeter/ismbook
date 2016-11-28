@@ -15,6 +15,7 @@
     <xsl:text>.html'closeangle</xsl:text>
     <xsl:value-of select='@name'/>
     <xsl:text>openangle/acloseangle" closeangle</xsl:text>
+    <xsl:text>&#xa;</xsl:text>
   </xsl:template>
 
 </xsl:stylesheet>

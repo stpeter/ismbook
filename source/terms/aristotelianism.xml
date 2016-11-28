@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
 <term id='aristotelianism' name='Aristotelianism'>
-  <source>From the name of the Greek philosopher Aristotle (384-322 BCE).</source>
+  <source>From the name of the Greek philosopher Aristotle (384&#8211;322 BCE).</source>
   <def topic='system'>Aristotle was the first philosopher to create a more-or-less complete system of thought. In particular, he originated or gave renewed force to &individualism;, &eudaimonism;, &optimism;, &realism;, &humanism;, &naturalism;, and even to a certain extent political &liberalism; (in that he defended the importance of voluntary institutions and the rule of law). Unfortunately, because of the history of Aristotle's writings in the West (they disappeared for centuries only to be rediscovered again around 1200 CE at the height of the &logicism; of the Middle Ages), Aristotle often is blamed for the mistakes and views of his interpreters. Thus the popular conception of Aristotelianism is sometimes closer to &neoplatonism; or especially &scholasticism; than anything Aristotle argued for in his writings. In addition to his work in philosophy, Aristotle founded the science of logic and performed significant research in biology, political science, rhetoric, literary theory, and many other disciplines.</def>
 </term>

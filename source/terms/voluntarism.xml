@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
 <term id='voluntarism' name='voluntarism'>
   <source>From Latin voluntarius: relating to the will.</source>
-  <def topic='metaphysics'>Specifically, the doctrine of Arthur Schopenhauer (1788-1860) that the fundamental power in the universe is will. More generally, another term for &libertarianism; with regard to volition.</def>
+  <def topic='metaphysics'>Specifically, the doctrine of Arthur Schopenhauer (1788&#8211;1860) that the fundamental power in the universe is will. More generally, another term for &libertarianism; with regard to volition.</def>
 </term>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
 <term id='taoism' name='Taoism'>
   <source>From Chinese tao: track, path, way.</source>
-  <def topic='ethics'>An ancient strand of Chinese thought that stressed the inherent untrustworthiness of appearances, the unity of the real world behind the appearances, the necessity of understanding this real unity spontaneously, the cultivation of one's character so that one could become a free spirit, an ideal of non-activity ("we-wei") that is best understood as doing nothing that is contrary to nature or to your own native character, a focus on inner peace and lack of disturbance, and a kind of libertarian political outlook. In general, Taoism was a reaction against the more conservative and action-oriented tradition of &confucianism;, and later forms of Taoism borrowed heavily from &buddhism;.</def>
+  <def topic='ethics'>An ancient strand of Chinese thought that stressed the inherent untrustworthiness of appearances, the unity of the real world behind the appearances, the necessity of understanding this real unity spontaneously, the cultivation of one's character so that one could become a free spirit, an ideal of non-activity ("wu-wei") that is best understood as doing nothing that is contrary to nature or to your own native character, a focus on inner peace and lack of disturbance, and a kind of libertarian political outlook. In general, Taoism was a reaction against the more conservative and action-oriented tradition of &confucianism;, and later forms of Taoism borrowed heavily from &buddhism;.</def>
 </term>

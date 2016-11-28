@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
 <term id='automatism' name='automatism'>
   <source>From Greek automatismos: that which happens on its own.</source>
-  <def topic='metaphysics'>The doctrine that the actions of animals are mechanistically determined. In particular, this doctrine is one constituent of &cartesianism;, since Descartes (1596-1650) advocated a strict &determinism; or &mechanism; in biology. Although automatism has little basis in biological fact, its core beliefs have persisted into recent times under different names (e.g., see &behaviorism;).</def>
+  <def topic='metaphysics'>The doctrine that the actions of animals are mechanistically determined. In particular, this doctrine is one constituent of &cartesianism;, since Descartes (1596&#8211;1650) advocated a strict &determinism; or &mechanism; in biology. Although automatism has little basis in biological fact, its core beliefs have persisted into recent times under different names (e.g., see &behaviorism;).</def>
 </term>

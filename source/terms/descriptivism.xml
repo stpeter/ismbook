@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
 <term id='descriptivism' name='descriptivism'>
   <source>From English descriptive: represented in words by reference to actual qualities; derived from Latin describere: to copy off or transcribe.</source>
-  <def topic='ethics'>The view that ethics merely represents or describes how human beings act in real life and that ethics cannot prescribe normative human values. English philosopher David Hume (1711-1776) and Italian political theorist Niccolo Machiavelli (1469-1527) are often characterized as descriptivists. The opposing view is &prescriptivism;.</def>
+  <def topic='ethics'>The view that ethics merely represents or describes how human beings act in real life and that ethics cannot prescribe normative human values. English philosopher David Hume (1711&#8211;1776) and Italian political theorist Niccolo Machiavelli (1469&#8211;1527) are often characterized as descriptivists. The opposing view is &prescriptivism;.</def>
 </term>

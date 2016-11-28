@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
 <term id='kantianism' name='Kantianism'>
-  <source>From the name of the German philosopher Immanuel Kant (1724-1804).</source>
+  <source>From the name of the German philosopher Immanuel Kant (1724&#8211;1804).</source>
   <def topic='system'>Although Immanuel Kant is known for &transcendentalism; or &idealism; in metaphysics and a subtle &constructivism; in epistemology, his signature idea was &deontologism; in ethics. In particular, Kant's fundamental contribution to ethical thought was the categorical imperative, according to which the only actions we can legitimately call moral are those that are done purely for the sake of a universal moral law, not from any personal interest (not even an interest in acting ethically!).</def>
 </term>

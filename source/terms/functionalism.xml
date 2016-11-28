@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
 <term id='functionalism' name='functionalism'>
   <source>From English function: the operation or performance of a thing.</source>
-  <def topic='epistemology'>The view, developed (and then renounced) by Hilary Putnam (1926-) that the mind can be studied in terms of its cognitive operations independently of the brain and body, and that those operations can be adequately modeled by the manipulation of exclusively formal symbols (such as the symbols of symbolic logic or computer programming).</def>
+  <def topic='epistemology'>The view, developed (and then renounced) by Hilary Putnam (1926&#8211;) that the mind can be studied in terms of its cognitive operations independently of the brain and body, and that those operations can be adequately modeled by the manipulation of exclusively formal symbols (such as the symbols of symbolic logic or computer programming).</def>
 </term>

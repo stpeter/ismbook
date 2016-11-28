@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
 <term id='platonism' name='Platonism'>
-  <source>From the name of the Greek philosopher Plato (427-347 BCE).</source>
+  <source>From the name of the Greek philosopher Plato (427&#8211;347 BCE).</source>
   <def topic='system'>The doctrines of Plato or the tradition of philosophizing that he founded. Usually the term refers to Plato's &idealism; and &dualism;, though it sometimes also refers to his &collectivism;, &rationalism;, &intellectualism;, distrust of art, etc.</def>
 </term>

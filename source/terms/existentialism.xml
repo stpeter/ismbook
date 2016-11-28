@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
 <term id='existentialism' name='existentialism'>
   <source>From Latin existentialis: pertaining to existence.</source>
-  <def topic='ethics'>An influential movement in 20th-century ethics holding that values are not universal but instead that each person must create his own values as a result of living life. Its guiding phrase, formulated by, Jean-Paul Sartre (1905-1980), was "existence precedes essence". Although existentialism was a form of &individualism;, it was also very much a kind of &pessimism; and opposed to any attempt at ethical &naturalism; since it held that there is no stable human nature and therefore that there are no common human values. Some existentialists reveled in the unplanned, haphazard character of experience and therefore could be characterized as proponents of &irrationalism; or even &nihilism;. Existentialists were also opponents of &eudaimonism;, since they thought that the quest for happiness is a bourgeois pursuit showing "bad faith".</def>
+  <def topic='ethics'>An influential movement in 20th-century ethics holding that values are not universal but instead that each person must create his own values as a result of living life. Its guiding phrase, formulated by, Jean-Paul Sartre (1905&#8211;1980), was "existence precedes essence". Although existentialism was a form of &individualism;, it was also very much a kind of &pessimism; and opposed to any attempt at ethical &naturalism; since it held that there is no stable human nature and therefore that there are no common human values. Some existentialists reveled in the unplanned, haphazard character of experience and therefore could be characterized as proponents of &irrationalism; or even &nihilism;. Existentialists were also opponents of &eudaimonism;, since they thought that the quest for happiness is a bourgeois pursuit showing "bad faith".</def>
 </term>

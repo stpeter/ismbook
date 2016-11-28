@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='mohism' name='Mohism'>
+  <source>From the name of the Chinese philosopher Mozi (440&#8211;360 BCE).</source>
+  <def topic='ethics'>A school of philosophy that influenced &taoism;. It rivaled &legalism;, &confucianism;, and &yangism;, the three other popular philosophies at the time. Mohism held &altruism; as one of its highest virtues, and strongly rejected &fatalism;.</def>
+</term>

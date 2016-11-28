@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
 <term id='darwinism' name='Darwinism'>
-  <source>From the name of the English biologist Charles Darwin (1809-1882).</source>
+  <source>From the name of the English biologist Charles Darwin (1809&#8211;1882).</source>
   <def topic='biology'>The theory (strictly speaking biological rather than philosophical) that all living things have descended from earlier common ancestors through processes of biological evolution such as natural selection; opposed by &creationism;.</def>
 </term>

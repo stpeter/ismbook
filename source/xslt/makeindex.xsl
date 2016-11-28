@@ -1,16 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xsl:stylesheet xmlns:xsl='http://www.w3.org/1999/XSL/Transform' version='1.0'>
 
-  <xsl:output method='html'/>
+  <xsl:output method="html" encoding="utf-8" indent="yes" />
 
-  <xsl:template match='/'>
+  <xsl:template match="/">
+    <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
     <html>
       <head>
         <title>The Ism Book: A Field Guide to Philosophy</title>
         <link rel='stylesheet' type='text/css' href='style.css'/>
+        <link rel="schema.dcterms" href="http://purl.org/dc/terms/"/>
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
-        <meta name='DC.Creator' content='Peter Saint-Andre'/>
-        <meta name='DC.Rights' content='http://creativecommons.org/publicdomain/zero/1.0/'/>
+        <meta name='DCTerms.Creator' content='Peter Saint-Andre'/>
+        <meta name='DCTerms.Rights' content='http://creativecommons.org/publicdomain/zero/1.0/'/>
         <meta name='viewport' content='width=device-width'/>
       </head>
       <body>

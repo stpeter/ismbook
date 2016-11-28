@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!-- License: this file is in the public domain -->
+<!-- To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this file to the public domain worldwide. -->
 <!DOCTYPE term [
   <!ENTITY % ents SYSTEM '../ism.ent'>
 %ents;
 ]>
 <term id='thomism' name='Thomism'>
-  <source>From the name of Christian theologian Thomas Aquinas (?1225-1274).</source>
+  <source>From the name of Christian theologian Thomas Aquinas (?1225&#8211;1274).</source>
   <def topic='system'>The doctrines and legacy of Thomas Aquinas, who created a synthesis between &christianity; and &aristotelianism; that was quite influential in the &scholasticism; of the later Middle Ages; a particular form of &neoaristotelianism;.</def>
 </term>
