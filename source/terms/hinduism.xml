@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='hinduism' name='Hinduism'>
+  <source>From Sanskrit Sindhu: the Indus river.</source>
+  <def topic='religion'>Hinduism is a complex network of religious and philosophical traditions that emerged in India over thousands of years beginning at the latest around 500 BCE. Often referred to by its practitioners as "the eternal way of life" (sanatana dharma), Hinduism includes ethical strictures regarding honesty, non-violence, self-restraint, and other virtues. Many varieties of Hinduism are known for their belief in both a personal and a universal soul (Atman / Brahman), individual liberation (moksha), reincarnation (samsara), and the consequences of actions (karma). Other key concepts include right living, work, pleasure, and liberation as the four goals of human life, and action, wisdom, and devotion as disciplines (yogas) leading to personal liberation. There have been numerous schools of thought within Hinduism, including forms of &monism;, &dualism;, &polytheism;, &monotheism;, &pantheism;, &materialism;, even &atheism;; with such a wide range of viewpoints represented, it is difficult to generate a single characterization of Hinduism as a philosophy.</def>
+</term>
