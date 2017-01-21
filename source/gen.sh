@@ -37,16 +37,4 @@ rm tmp.list
 
 $procpath xslt/makeindex.xsl terms/$1.xml > ../index.html
 
-# 6. update the Atom and RSS feeds from the changelog
-
-$procpath xslt/change2atom.xsl changelog.xml > ../atom.xml
-$procpath xslt/change2rss.xsl changelog.xml > ../rss.xml
-
-# 7. tar/zip up the source
-
-cd ../
-tar -cf ismbook.tar source/*
-gzip --best -f ismbook.tar
-zip -r ismbook.zip source/*
-
 # END
