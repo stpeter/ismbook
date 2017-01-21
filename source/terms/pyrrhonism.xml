@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='pyrrhonism' name='Pyrrhonism'>
+  <source>From the name of the Greek philosopher Pyrrho (c. 360-270 BCE).</source>
+  <def topic='epistemology'>Pyrrho was a painter and poet who accompanied Alexander the Great and apparently underwent a philosophical conversion in northern India, fueling speculation that he was influenced by early &buddhism;. He believed that tranquility could be achieved only by steadfastly withholding judgment about ethical matters because they cannot be reliably decided as good or evil, true or false.</def>
+</term>
