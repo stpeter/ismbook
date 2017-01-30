@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- License: this file is in the public domain -->
+<!DOCTYPE term [
+  <!ENTITY % ents SYSTEM '../ism.ent'>
+%ents;
+]>
+<term id='judaism' name='Judaism'>
+  <source>From Greek Ioudaios: the tribe of Israel descended from Judah.</source>
+  <def topic='religion'>The religion of the Jewish people, especially the form of &monotheism; that emerged after 333 BCE and replaced the earlier &polytheism; prevalent in the Persian period of Jewish history.</def>
+</term>
