@@ -15,7 +15,7 @@
       </head>
       <body>
         <h1>The Ism Book: A Field Guide to Philosophy</h1>
-        <h2>by <a href='https://stpeter.im/'>Peter Saint-Andre</a></h2>
+        <h2>by <a href='http://stpeter.im/'>Peter Saint-Andre</a></h2>
         <p>The currently featured <a href="ism.html">ism</a> is:</p>
         <blockquote class='featured'>
           <p>

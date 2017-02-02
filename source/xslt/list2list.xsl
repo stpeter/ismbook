@@ -18,7 +18,7 @@
         <p>
           <xsl:apply-templates select='/terms/term'/>
         </p>
-        <p><a href='/'>The Ism Book</a> by <a href='https://stpeter.im/'>Peter Saint-Andre</a></p>
+        <p><a href='/'>The Ism Book</a> by <a href='http://stpeter.im/'>Peter Saint-Andre</a></p>
         <p><a href='http://creativecommons.org/publicdomain/zero/1.0/'>No Rights Reserved</a></p>
       </body>
     </html>
