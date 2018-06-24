@@ -1,8 +1,14 @@
 The Ism Book is an open-source dictionary of philosophy, created
-by Peter Saint-Andre <http://stpeter.im/>.
+by Peter Saint-Andre.
 
-Feedback and bug reports are welcome via <mailto:author@ismbook.com>.
+The canonical location for this book is now:
 
-To generate the site, type `./gen.sh featuredterm` in the source/ directory,
-where "featuredterm" is a particular ism such as individualism.
+https://stpeter.im/writings/ismbook/
+
+The source repository is now:
+
+https://github.com/stpeter/stpeter.github.io/tree/master/writings/ismbook
+
+Feedback and bug reports are welcome; see https://stpeter.im/contact.html 
+for details.
 
